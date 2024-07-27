@@ -21,12 +21,31 @@ h1 {
 	float: none;
 	margin-left: 20px;
 	margin-right: 20px;
+	line-height: 18px;
 }
 
 .title {
 	font-weight: bold;
 }
 
-#screenshot {
-	text-align: center;
+.screenshot {
+	width: 55%;
+	margin-left:auto;
+	margin-right: auto;
+	display: block;
+}
+
+
+form {
+	text-align:center;
+}
+
+.instructions {
+	line-height: 20px;
+	margin-top: 25px;
+	margin-bottom: 25px;
+}
+
+.tips {
+	margin-top:30px;
 }
