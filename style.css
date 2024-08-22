@@ -60,3 +60,15 @@ form {
 .tips {
 	margin-top:30px;
 }
+
+.link {
+	font-size:15px;
+	color:black;
+	background-color: rgb(253, 208, 27); 
+	border-radius: 20px;
+	font-weight:bold;
+	text-decoration:none;
+	padding:5px;
+	padding-left:15px;
+	padding-right:15px;
+}
